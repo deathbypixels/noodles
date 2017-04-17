@@ -1,0 +1,4 @@
+s = 'Hello you are all Stupid'
+print s
+sfix = s.replace(" " , "-")
+print sfix
