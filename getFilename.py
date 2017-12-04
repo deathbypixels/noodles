@@ -1,0 +1,1 @@
+print nukescripts.reads.get_reads('file')
